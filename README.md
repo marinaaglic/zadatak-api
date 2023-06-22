@@ -1,6 +1,9 @@
 # Project
 
-Opis projekta
+This is an API that allows users to register, login and access protected resource. There are 3 type of roles for users: USER, BLOGGER and ADMIN.
+USERs can send posts for pending if they are going to be allowed or not.
+ADMIN can allow posts or decline.
+BLOGGERs are users who's posts have been allowed.
 
 ## Setup
 
