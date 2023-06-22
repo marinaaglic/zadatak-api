@@ -24,4 +24,4 @@ https://app.swaggerhub.com/apis/MAGLICCUV_1/Zadatak-API/1.0.0
 
 ## Postman
 
-You can find Postman collection in docs folder, import it to Postman.
+You can find Postman collection in docs folder.
